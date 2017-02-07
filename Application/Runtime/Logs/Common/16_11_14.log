@@ -1,0 +1,6 @@
+[ 2016-11-14T15:10:31+08:00 ] 218.72.69.86 /gamefactory/index.php/admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+ERR: 无法加载模块:Admin
+
